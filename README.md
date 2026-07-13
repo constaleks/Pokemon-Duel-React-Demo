@@ -24,10 +24,10 @@ A small React study project called **Pokémon Duel Game** and built with **React
 - [x] Determine the winning hand (the one with higher total experience).
 - [x] On refresh, hands and the winner should change randomly.
 
-### ⬜ Part 3: Styling + Animations
+### ✅ Part 3: Styling + Animations
 
 - [x] Style components with Tailwind CSS.
-- [ ] Add animations/transitions (e.g. card reveal, winner highlight).
+- [x] Add animations/transitions (e.g. card reveal, winner highlight).
 
 ## Getting Started
 
@@ -62,6 +62,8 @@ src/
 │   └── Pokedex.jsx    (in progress)
 ├── mocks/
 │   ├── mockData.js
+├── utils/
+│   ├── typeStyles.js
 ```
 
 ## Notes

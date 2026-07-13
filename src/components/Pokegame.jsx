@@ -23,7 +23,7 @@ function Pokegame() {
     const exp2 = hand2.reduce((exp, pokemon) => exp + pokemon.base_experience, 0);
 
     return (
-        <div className="flex flex-col gap-16">
+        <div className="flex flex-col gap-8">
             <Pokedex pokemons={hand1} exp={exp1} isWinner={exp1 > exp2} />
             <Pokedex pokemons={hand2} exp={exp2} isWinner={exp1 < exp2} />
         </div>
