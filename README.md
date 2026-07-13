@@ -58,8 +58,8 @@ src/
 ├── App.jsx
 ├── components/
 │   ├── Pokecard.jsx
-│   ├── Pokegame.jsx   (in progress)
-│   └── Pokedex.jsx    (in progress)
+│   ├── Pokegame.jsx
+│   └── Pokedex.jsx
 ├── mocks/
 │   ├── mockData.js
 ├── utils/
