@@ -15,18 +15,18 @@ A small React study project called **Pokémon Duel Game** and built with **React
 - `App.jsx`
 - `components/Pokecard.jsx`
 
-### ⬜ Part 2: Building the `Pokegame` Component
+### ✅ Part 2: Building the `Pokegame` Component
 
-- [ ] Modify `App` to render a `Pokegame` component.
-- [ ] `Pokegame` takes the list of 8 Pokémon (mocks/mockData.js) and randomly splits them into two hands of 4 cards each.
-- [ ] Render two `Pokedex` components, one per hand.
-- [ ] Calculate the total experience for each hand.
-- [ ] Determine the winning hand (the one with higher total experience).
-- [ ] On refresh, hands and the winner should change randomly.
+- [x] Modify `App` to render a `Pokegame` component.
+- [x] `Pokegame` takes the list of 8 Pokémon (mocks/mockData.js) and randomly splits them into two hands of 4 cards each.
+- [x] Render two `Pokedex` components, one per hand.
+- [x] Calculate the total experience for each hand.
+- [x] Determine the winning hand (the one with higher total experience).
+- [x] On refresh, hands and the winner should change randomly.
 
 ### ⬜ Part 3: Styling + Animations
 
-- [ ] Style components with Tailwind CSS.
+- [x] Style components with Tailwind CSS.
 - [ ] Add animations/transitions (e.g. card reveal, winner highlight).
 
 ## Getting Started
